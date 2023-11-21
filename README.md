@@ -1,4 +1,4 @@
-A place to find
+Yet another one tiny collection of Control4 drivers.
 
 szWebControl. A simple http driver that can change a system variable value.
 Accepts POST JSON requests.
